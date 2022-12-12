@@ -1,0 +1,23 @@
+body {
+    background-color: #f9fafa;
+}
+
+h1 {
+    font-size: 2em;
+    color: #0fa0a0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.parrafo {
+    font-size: 1.3em;
+    color: #9e3929;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.parrafo2 {
+    font-size: 1em;
+    color: #29609e;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+#ejemplo {
+    font-size: 0.9em;
+    color: aquamarine;
+}

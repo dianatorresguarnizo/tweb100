@@ -1,0 +1,89 @@
+/*Estilo Eitqueta*/
+body {
+    background-color: #f9f7f5;
+}
+.cabecera {
+    background-color: #191970;
+    height: 160px;
+    font-size: 1.8em;
+    color: #fbfbfb;
+    text-align: center;
+    padding: 20px 10px 0px 10px;
+}
+.cabecera img {
+    float: left;
+    width: 9%;
+
+}
+.nombre_sitio {
+    font-size: 1.2em;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+}
+
+nav {
+    float: right;
+}
+
+nav ul {
+    list-style: none;
+}
+nav ul li{
+    display:inline-block;
+}
+nav ul li a{
+    font-size: 0.7em;
+    color: #fbfbfb;
+    text-decoration: none;
+    padding-right: 10px;
+}
+nav ul li a:hover{
+    font-size: 0.8em;
+    text-decoration: underline;
+    padding-right: 10px;   
+}
+.izquierda {
+    float: left;
+    width: 30%;
+}
+
+.derecha {
+    float: right;
+    width: 70%;
+}
+
+.bloque1 {
+    clear: both;
+    float: left;
+    width: 25%;
+}
+.bloque2 {
+    float: left;
+    text-align: center;
+    width: 25%;
+}
+.bloque3 {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.bloque4 {
+    float: left;
+    width: 25%;
+    text-align: center;
+}
+
+.secciones {
+    clear: both;
+    width: auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: stretch;
+}
+footer{
+    clear: both;
+    text-align: center;
+}
