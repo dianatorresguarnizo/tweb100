@@ -1,0 +1,13 @@
+body {
+    background-color: #2d67d9;
+}
+h1 {
+    color: white;
+    font-size: 3em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.parrafo {
+    font-size: 2em;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
